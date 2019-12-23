@@ -1,0 +1,7 @@
+path:
+woo integration
+\\192.168.1.15\SP Team\Application-System-Guides\WooCommerce 3.5\plugins\Template 2.0
+
+
+useful files
+\\192.168.1.15\SP Team\Application-System-Guides\WooCommerce 3.0
